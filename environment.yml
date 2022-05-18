@@ -1,0 +1,10 @@
+name: sed
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - fenics==2019.1
+  - spyder
+  - pip
